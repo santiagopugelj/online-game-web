@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header h1, h2 {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    height: 100vh;
+}
+
+main {
+    flex:1;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-form {
+    border: 1px solid #000;
+    width: 300px;
+    background-color: blueviolet;
+}
+
+footer {
+    text-align: center;
+}

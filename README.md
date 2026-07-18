@@ -6,7 +6,7 @@
 
 - An online game in that players can create our own histories via cooperation, competence and decisions with consequences
 
-- The idea is make a simple online game, simple like: I can build this game in 3-6 moths or something.
+- The idea is make a simple online game, simple like: I can build this game in 3-6 moths or something like that.
 
 ## MVP characteristics: ##
 
