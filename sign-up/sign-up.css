@@ -4,10 +4,10 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: firebrick;
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 h1, h2 {
@@ -15,24 +15,25 @@ h1, h2 {
 }
 
 header {
-    background-color: slateblue;
+    background-color: antiquewhite;
 }
 
 main {
-    background-color: antiquewhite;
-    flex:1;
+    background-color: violet;
+    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#login-form {
-    background-color: tomato;
+#sign-up-form {
+    background-color: aquamarine;
     border: 1px solid #000;
     width: 300px;
 }
 
 footer {
-    background-color: darkorange;
+    background-color: burlywood;
     text-align: center;
 }
+
